@@ -1,0 +1,10 @@
+.FormBtn {
+  background-color: #0069fa !important;
+  color: white !important;
+  text-transform: capitalize !important;
+  height: 60px;
+  font-size: 18px !important;
+}
+
+@media only screen and (max-width: 600px) {
+}

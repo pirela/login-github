@@ -1,0 +1,20 @@
+.FormBtn {
+  background-color: #0069fa !important;
+  color: white !important;
+  text-transform: capitalize !important;
+  height: 60px;
+  font-size: 18px !important;
+}
+
+.FormReposTxt {
+  margin: 40px 0px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.FormReposMargin {
+  margin: 25px 0px;
+}
+
+@media only screen and (max-width: 600px) {
+}

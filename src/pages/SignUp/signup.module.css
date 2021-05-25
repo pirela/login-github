@@ -1,0 +1,47 @@
+.SingUpContainer {
+  margin: 0px 20vw;
+}
+
+.SignUpBanner {
+  width: calc(60vw - 16px);
+  margin-left: 20vw;
+}
+
+.SignUpTxt {
+  color: #474748;
+  font-size: 36px;
+  font-weight: 800;
+  font-family: "AkkuratProBold" !important;
+  margin: 40px 0px;
+}
+
+.SignUpParagraph {
+  color: #474748;
+  font-size: 18px;
+  margin: 40px 0px;
+}
+
+@media only screen and (max-width: 600px) {   
+  
+  .SignUpBanner {
+    width: 100%;
+    margin-left: 0vw;
+  }
+  .SingUpContainer {
+    margin: 0px 40px;
+  }
+  .SignUpTxt {
+    color: #474748;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: "AkkuratProBold" !important;
+    margin: 40px 0px;
+  }
+
+  .SignUpParagraph {
+    color: #474748;
+    font-size: 16px;
+    margin: 40px 0px;
+  }
+}
+    
